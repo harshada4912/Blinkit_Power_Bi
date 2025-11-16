@@ -66,4 +66,7 @@ It provides interactive insights into **total sales, average sales, outlet perfo
 
 ## 📸 Dashboard Preview  
 
+<img width="1153" height="640" alt="Screenshot 2025-11-16 131424" src="https://github.com/user-attachments/assets/cc5cafe6-1bc4-4525-9e49-0acb21eec8ab" />
+
+
 
